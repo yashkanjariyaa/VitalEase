@@ -6,14 +6,14 @@
   width: 382px;
   height: 65px;
 }
-.vitalease-healthcare4 {
+.vitalease-healthcare {
   position: absolute;
   top: 64px;
   left: 74px;
   font-size: var(--font-size-11xl);
 }
 .change-language,
-.one-click-emergency2 {
+.one-click-emergency {
   position: absolute;
   top: 129px;
   left: 732px;
@@ -29,7 +29,7 @@
 }
 .welcome-user {
   position: absolute;
-  top: 432px;
+  top: 354px;
   left: 74px;
   font-size: var(--font-size-31xl);
   font-weight: 800;
@@ -57,16 +57,16 @@
   position: absolute;
   top: 130px;
   left: 74px;
-  font-size: var(--font-size-31xl);
+  font-size: var(--font-size-21xl);
   font-weight: 900;
   display: inline-block;
-  width: 673px;
+  width: 550px;
   height: 170px;
 }
-.medication3 {
+.medication {
   margin: 0;
 }
-.medication-adherence3 {
+.medication-adherence {
   position: absolute;
   top: 878px;
   left: 143px;
@@ -83,20 +83,20 @@
   border-radius: var(--br-10xl);
   background-color: var(--color-lightgreen);
 }
-.component-11,
-.emergency-contact2 {
+.component-1,
+.emergency-contact {
   position: absolute;
   top: 66.47%;
   left: 17.13%;
 }
-.component-11 {
-  top: 524px;
+.component-1 {
+  top: 431px;
   left: 980px;
   width: 397px;
   height: 516px;
   color: var(--color-black);
 }
-.instance-child1 {
+.instance-child {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -109,20 +109,20 @@
   overflow: hidden;
   max-height: 100%;
 }
-.chatbot2,
-.vector-group {
+.chatbot,
+.vector-parent {
   position: absolute;
   top: 80.43%;
   left: 27.2%;
 }
-.vector-group {
-  top: 524px;
+.vector-parent {
+  top: 431px;
   left: 1433px;
   width: 397px;
   height: 516px;
   color: var(--color-black);
 }
-.instance-child2 {
+.instance-item {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -133,20 +133,20 @@
   border-radius: var(--br-10xl);
   background-color: var(--color-mediumaquamarine);
 }
-.medication-adherence4 {
+.medication-adherence1 {
   position: absolute;
   top: 68.6%;
   left: 17.38%;
 }
-.rectangle-parent12 {
+.rectangle-parent {
   position: absolute;
-  top: 524px;
+  top: 431px;
   left: 74px;
   width: 397px;
   height: 516px;
   color: var(--color-black);
 }
-.instance-child3 {
+.instance-inner {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -157,14 +157,14 @@
   border-radius: var(--br-10xl);
   background-color: var(--color-forestgreen-100);
 }
-.daily-tasks3 {
+.daily-tasks,
+.rectangle-group {
   position: absolute;
   top: 73.64%;
   left: 18.39%;
 }
-.rectangle-parent13 {
-  position: absolute;
-  top: 524px;
+.rectangle-group {
+  top: 431px;
   left: 527px;
   width: 397px;
   height: 516px;
@@ -206,7 +206,7 @@
   font-size: var(--font-size-11xl);
 }
 .manage-monitoring-access {
-  top: 444px;
+  top: 366px;
   left: 1341px;
   font-weight: 900;
   display: inline-block;
@@ -215,7 +215,7 @@
 }
 .arhive-load-fill-icon {
   position: absolute;
-  top: 432px;
+  top: 357px;
   left: 1762px;
   width: 55px;
   height: 57px;
@@ -249,10 +249,9 @@
 }
 .dashboard {
   position: relative;
-  border-radius: var(--br-11xl);
   background-color: var(--color-black);
   width: 100%;
-  height: 1080px;
+  height: 100vh;
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-26xl);
@@ -270,7 +269,7 @@
   border-radius: var(--br-10xl);
   background-color: var(--color-palegoldenrod);
 }
-.close-round-icon3 {
+.close-round-icon {
   position: absolute;
   height: 7.17%;
   width: 3.54%;
@@ -351,6 +350,7 @@
 .xxxxx-xxxxx1 {
   margin: 0;
   padding-left: var(--padding-37xl);
+  font-size: 40px;
 }
 .xxxxx-xxxxx {
   position: absolute;
@@ -393,7 +393,7 @@
   font-family: var(--paragraph-p3-regular);
   color: var(--color-white);
 }
-.name10,
+.name1,
 .role,
 .role1 {
   position: absolute;
@@ -409,7 +409,7 @@
   box-sizing: border-box;
   overflow: hidden;
 }
-.name10 {
+.name1 {
   top: 15px;
   left: 225px;
   font-size: var(--font-size-23xl);
@@ -417,13 +417,13 @@
   font-family: var(--paragraph-p3-regular);
   color: var(--color-white);
 }
-.name9,
+.name,
 .table-users {
   position: absolute;
   left: 0;
   overflow: hidden;
 }
-.name9 {
+.name {
   height: 100%;
   width: 33.97%;
   top: 9.15%;
