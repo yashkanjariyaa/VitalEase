@@ -1456,11 +1456,11 @@
   background-color: var(--color-white);
   width: 100%;
   height: 7154px;
-  overflow-y: auto;
   text-align: left;
   font-size: var(--header-h1-size);
   color: var(--color-antiquewhite-100);
   font-family: var(--paragraph-p3-regular);
+  overflow-x: hidden;
 }
 .group-item {
   position: absolute;
