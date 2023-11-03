@@ -1462,6 +1462,8 @@
   font-size: var(--header-h1-size);
   color: var(--color-antiquewhite-100);
   font-family: var(--paragraph-p3-regular);
+  zoom: 70%;
+  overflow-x: hidden;
 }
 .group-item {
   position: absolute;
