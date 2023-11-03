@@ -1,0 +1,139 @@
+.group-child11,
+.group-child12 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-child11 {
+  border-radius: var(--br-xl);
+  background-color: #397a38;
+}
+.group-child12 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+}
+.description {
+  position: absolute;
+  height: 39.22%;
+  width: 51.48%;
+  top: 31.37%;
+  left: 8.85%;
+  display: inline-block;
+}
+.rectangle-frame,
+.rectangle-parent9,
+.rectangle-wrapper1 {
+  position: absolute;
+  height: 11.59%;
+  width: 68.69%;
+  top: 44.32%;
+  right: 21.85%;
+  bottom: 44.09%;
+  left: 9.46%;
+}
+.rectangle-frame,
+.rectangle-wrapper1 {
+  width: 29.95%;
+  top: 61.59%;
+  right: 60.59%;
+  bottom: 26.82%;
+}
+.rectangle-wrapper1 {
+  top: 78.86%;
+  bottom: 9.55%;
+}
+.task {
+  position: absolute;
+  height: 39.22%;
+  width: 44.92%;
+  top: 31.37%;
+  left: 8.85%;
+  display: inline-block;
+}
+.group-parent2 {
+  position: absolute;
+  height: 11.59%;
+  width: 68.69%;
+  top: 27.05%;
+  right: 21.85%;
+  bottom: 61.36%;
+  left: 9.46%;
+}
+.name-your-schedule {
+  position: absolute;
+  height: 39.22%;
+  width: 53.77%;
+  top: 31.37%;
+  left: 8.85%;
+  display: inline-block;
+}
+.group-parent3 {
+  position: absolute;
+  height: 11.59%;
+  width: 68.69%;
+  top: 9.55%;
+  right: 21.85%;
+  bottom: 78.86%;
+  left: 9.46%;
+}
+.how-many-times {
+  margin: 0;
+}
+.how-many-times-container,
+.per-day-week {
+  position: absolute;
+  top: 284px;
+  left: 199px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 184px;
+  height: 26px;
+}
+.per-day-week {
+  top: 348px;
+}
+.rectangle-parent8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.check-fill-icon,
+.send-hor-fill-icon,
+.send-hor-fill-icon1 {
+  position: absolute;
+  top: 350px;
+  left: 141px;
+  width: 24.2px;
+  height: 30.6px;
+}
+.check-fill-icon,
+.send-hor-fill-icon1 {
+  top: 273px;
+}
+.check-fill-icon {
+  top: 35px;
+  left: 383px;
+  width: 48px;
+  height: 45px;
+}
+.add-tasks {
+  position: relative;
+  width: 444px;
+  height: 440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray-100);
+  font-family: var(--paragraph-p3-regular);
+}

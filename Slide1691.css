@@ -1,0 +1,204 @@
+.slide-169-1-child {
+  position: absolute;
+  top: 38px;
+  left: 361px;
+  width: 1108px;
+  height: 77px;
+}
+.chat-with-us,
+.hospitals {
+  position: absolute;
+  top: 58px;
+  left: 1052px;
+}
+.hospitals {
+  left: 643px;
+}
+.about-us3,
+.caretakers,
+.medications {
+  position: absolute;
+  top: 58px;
+  left: 415px;
+}
+.about-us3,
+.caretakers {
+  left: 849px;
+}
+.about-us3 {
+  left: 1284px;
+}
+.slide-169-1-item {
+  position: absolute;
+  top: calc(50% - 495px);
+  left: calc(50% + 629px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-cornsilk);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 280px;
+  height: 63px;
+}
+.need-help2 {
+  position: absolute;
+  top: 59px;
+  left: 1654px;
+}
+.group-child27,
+.slide-169-1-inner {
+  position: absolute;
+  width: 246px;
+  height: 51px;
+}
+.group-child27 {
+  top: 0;
+  left: 0;
+  background-color: #fbe7d5;
+}
+.slide-169-1-inner {
+  top: 348px;
+  left: 72px;
+}
+.psychologist {
+  position: absolute;
+  top: calc(50% - 185px);
+  left: calc(50% - 841px);
+  color: var(--color-darkslategray-100);
+}
+.group-child28 {
+  position: absolute;
+  top: calc(50% - 25.5px);
+  left: calc(50% - 123px);
+  background-color: #dbe3fa;
+  width: 246px;
+  height: 51px;
+}
+.psychiatrist {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 90px);
+  display: inline-block;
+  width: 166px;
+  height: 36px;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: calc(50% - 192px);
+  left: calc(50% - 598px);
+  width: 246px;
+  height: 51px;
+  color: var(--color-darkslategray-100);
+}
+.group-child29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #dcf0e7;
+  width: 272px;
+  height: 51px;
+}
+.psychoanalyst {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 99.5px);
+  display: inline-block;
+  width: 226.7px;
+  height: 36px;
+}
+.rectangle-parent16 {
+  position: absolute;
+  top: 348px;
+  left: 652px;
+  width: 272px;
+  height: 51px;
+  color: var(--color-darkslategray-100);
+}
+.mental-health {
+  font-size: var(--font-size-38xl);
+  font-family: var(--paragraph-p3-regular);
+}
+.span {
+  font-size: var(--font-size-11xl);
+}
+.mental-health-is-not-a {
+  margin: 0;
+}
+.span1 {
+  font-size: var(--font-size-11xl);
+  font-family: var(--paragraph-p3-regular);
+}
+.process {
+  margin: 0;
+  font-size: var(--font-size-38xl);
+}
+.mental-health-is-container,
+.our-work-has-container {
+  position: absolute;
+  top: 461px;
+  left: 72px;
+  white-space: pre-wrap;
+  font-size: var(--font-size-26xl);
+}
+.our-work-has-container {
+  top: 684px;
+  font-size: var(--font-size-4xl);
+}
+.group-child30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 89px;
+  background-color: var(--color-palegoldenrod);
+  width: 420px;
+  height: 90px;
+}
+.schedule-appointment {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: calc(50% - 186px);
+}
+.rectangle-parent17 {
+  position: absolute;
+  top: 830px;
+  left: 72px;
+  width: 420px;
+  height: 90px;
+  font-size: var(--font-size-14xl);
+}
+.slide-169-1-child1 {
+  position: absolute;
+  top: calc(50% + 285px);
+  left: calc(50% - 423px);
+  width: 100px;
+  height: 100px;
+}
+.b12 {
+  position: absolute;
+  top: 855px;
+  left: 551px;
+  font-size: var(--font-size-14xl);
+}
+.we-have {
+  font-family: var(--paragraph-p3-regular);
+}
+.success {
+  color: var(--color-mediumseagreen-100);
+}
+.we-have-success-container {
+  position: absolute;
+  top: 835px;
+  left: 650px;
+  font-size: var(--font-size-14xl);
+}
+.slide-169-1 {
+  position: relative;
+  background-color: #f8f7f0;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--paragraph-p3-regular);
+}

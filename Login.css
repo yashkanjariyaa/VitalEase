@@ -1,0 +1,269 @@
+.vitalease-healthcare1 {
+  position: absolute;
+  top: 59px;
+  left: 1501px;
+  font-size: var(--font-size-16xl);
+}
+.welcome-back-olivia,
+.welcome-back-please {
+  position: absolute;
+  top: 157px;
+  left: 269px;
+  font-size: var(--font-size-26xl);
+}
+.welcome-back-please {
+  top: 238px;
+  font-size: var(--paragraph-p1-semibold-size);
+}
+.group-child4,
+.group-child5 {
+  position: absolute;
+  top: 16.8px;
+  left: 0;
+  width: 184px;
+  height: 0.5px;
+}
+.group-child5 {
+  left: 228px;
+}
+.or {
+  position: absolute;
+  top: 0;
+  left: 193px;
+  font-weight: 300;
+}
+.group-child6,
+.vector-parent {
+  position: absolute;
+  top: 396px;
+  left: 303px;
+  width: 412px;
+  height: 33px;
+}
+.group-child6 {
+  top: 0;
+  left: 0;
+  border-radius: 24px;
+  background-color: var(--color-floralwhite-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 410px;
+  height: 79px;
+}
+.login-with-google {
+  position: absolute;
+  top: 6.5px;
+  left: 60px;
+  font-weight: 500;
+  display: inline-block;
+  width: 233px;
+  height: 35.7px;
+}
+.google-logo-9808-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 48.7px;
+  object-fit: cover;
+}
+.login-with-google-parent {
+  position: absolute;
+  top: 15.2px;
+  left: 58px;
+  width: 293px;
+  height: 48.7px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 302px;
+  left: 304px;
+  width: 410px;
+  height: 79px;
+}
+.instance-child,
+.instance-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.instance-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-floralwhite-100);
+  border: 1px solid var(--color-black);
+}
+.instance-item {
+  height: 1.37%;
+  width: 85.61%;
+  top: 84.25%;
+  right: 7.2%;
+  bottom: 14.38%;
+  left: 7.2%;
+  border-top: 1px solid var(--color-black);
+}
+.group-child7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-floralwhite-100);
+}
+.email2 {
+  position: absolute;
+  top: 2.86%;
+  left: 11.49%;
+  font-weight: 300;
+}
+.rectangle-parent5 {
+  position: absolute;
+  height: 47.95%;
+  width: 21.22%;
+  top: 26.03%;
+  right: 74.63%;
+  bottom: 26.03%;
+  left: 4.15%;
+}
+.component-2-item {
+  position: absolute;
+  height: 1.37%;
+  width: 85.61%;
+  top: 80.14%;
+  right: 7.2%;
+  bottom: 18.49%;
+  left: 7.2%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-child8 {
+  position: absolute;
+  height: 100%;
+  width: 65.41%;
+  top: 0;
+  right: 34.59%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-floralwhite-100);
+}
+.password2 {
+  position: absolute;
+  top: 2.86%;
+  left: 7.52%;
+  font-weight: 300;
+}
+.rectangle-parent6 {
+  position: absolute;
+  height: 47.95%;
+  width: 32.44%;
+  top: 26.03%;
+  right: 63.41%;
+  bottom: 26.03%;
+  left: 4.15%;
+}
+.component-21,
+.instance-parent {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 410px;
+  height: 73px;
+}
+.instance-parent {
+  top: 470px;
+  left: 301px;
+  height: 173px;
+}
+.remember-for-30 {
+  position: absolute;
+  top: 709px;
+  left: 315px;
+  font-size: 17px;
+}
+.instance-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-floralwhite-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.login-inner {
+  position: absolute;
+  top: 712px;
+  left: 292px;
+  width: 16px;
+  height: 16px;
+}
+.forgot-password {
+  position: absolute;
+  top: 708px;
+  left: 553px;
+  font-size: 19px;
+  text-decoration: underline;
+}
+.group-child9 {
+  border-radius: 18px;
+  background-color: var(--color-mediumaquamarine);
+}
+.group-child9,
+.rectangle-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 410px;
+  height: 73px;
+}
+.log-in {
+  position: absolute;
+  top: 20px;
+  left: 165px;
+  font-weight: 600;
+}
+.group-container {
+  position: absolute;
+  top: 771px;
+  left: 301px;
+  width: 410px;
+  height: 73px;
+  cursor: pointer;
+  color: var(--color-floralwhite-100);
+}
+.sign-up-for {
+  font-weight: 600;
+}
+.dont-have-an-container {
+  position: absolute;
+  top: 887px;
+  left: 297px;
+  font-size: var(--font-size-3xl);
+}
+.close-round-icon {
+  position: absolute;
+  top: 47px;
+  left: 48px;
+  width: 66px;
+  height: 65px;
+}
+.login1 {
+  position: relative;
+  background-color: var(--color-floralwhite-100);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-black);
+  font-family: var(--paragraph-p3-regular);
+}

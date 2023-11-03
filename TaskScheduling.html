@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./TaskScheduling.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Sans:wght@500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="task-scheduling">
+      <div class="task-scheduling-child"></div>
+      <img
+        class="close-round-icon1"
+        alt=""
+        src="./public/close-round1.svg"
+        id="closeRound"
+      />
+
+      <b class="daily-tasks2">Daily Tasks</b>
+      <div class="task-scheduling-item"></div>
+      <div class="schedule-1-parent">
+        <b class="schedule-1">Schedule #1</b>
+        <div class="task-1">Task 1</div>
+        <div class="time">Time</div>
+        <div class="time1">Time</div>
+        <div class="task-2">Task 2</div>
+        <div class="div">1.</div>
+        <div class="div1">2.</div>
+      </div>
+      <div class="task-scheduling-inner"></div>
+      <div class="schedule-2-parent">
+        <b class="schedule-2">Schedule #2</b>
+        <div class="task-11">Task 1</div>
+        <div class="time2">Time</div>
+        <div class="time3">Time</div>
+        <div class="task-21">Task 2</div>
+        <div class="div2">1.</div>
+        <div class="div3">2.</div>
+        <div class="time4">Time</div>
+        <div class="task-3">Task 3</div>
+        <div class="div4">3.</div>
+      </div>
+    </div>
+
+    <div id="addTasksContainer" class="popup-overlay" style="display: none">
+      <div class="add-tasks">
+        <div class="rectangle-parent8">
+          <div class="group-child11"></div>
+          <div class="rectangle-parent9">
+            <div class="group-child12"></div>
+            <b class="description">Description</b>
+          </div>
+          <div class="rectangle-frame">
+            <div class="group-child12"></div>
+          </div>
+          <div class="rectangle-wrapper1">
+            <div class="group-child12"></div>
+          </div>
+          <div class="group-parent2">
+            <div class="rectangle-parent8">
+              <div class="group-child12"></div>
+            </div>
+            <b class="task">Task</b>
+          </div>
+          <div class="group-parent3">
+            <div class="rectangle-parent8">
+              <div class="group-child12"></div>
+            </div>
+            <b class="name-your-schedule">Name your schedule</b>
+          </div>
+          <b class="how-many-times-container">
+            <p class="how-many-times">How many times?</p>
+          </b>
+          <b class="per-day-week">Per? (day, week month)</b>
+        </div>
+        <img
+          class="send-hor-fill-icon"
+          alt=""
+          src="./public/send-hor-fill.svg"
+        />
+
+        <img
+          class="send-hor-fill-icon1"
+          alt=""
+          src="./public/send-hor-fill.svg"
+        />
+
+        <img class="check-fill-icon" alt="" src="./public/check-fill.svg" />
+      </div>
+    </div>
+
+    <script>
+      var closeRound = document.getElementById("closeRound");
+      if (closeRound) {
+        closeRound.addEventListener("click", function () {
+          var popup = document.getElementById("addTasksContainer");
+          if (!popup) return;
+          var popupStyle = popup.style;
+          if (popupStyle) {
+            popupStyle.display = "flex";
+            popupStyle.zIndex = 100;
+            popupStyle.backgroundColor = "rgba(113, 113, 113, 0.3)";
+            popupStyle.alignItems = "center";
+            popupStyle.justifyContent = "center";
+          }
+          popup.setAttribute("closable", "");
+      
+          var onClick =
+            popup.onClick ||
+            function (e) {
+              if (e.target === popup && popup.hasAttribute("closable")) {
+                popupStyle.display = "none";
+              }
+            };
+          popup.addEventListener("click", onClick);
+        });
+      }
+      </script>
+  </body>
+</html>

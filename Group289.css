@@ -1,0 +1,230 @@
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.property-1default-item {
+  position: absolute;
+  height: 1.37%;
+  width: 85.61%;
+  top: 84.25%;
+  right: 7.2%;
+  bottom: 14.38%;
+  left: 7.2%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.email {
+  position: absolute;
+  top: 2.86%;
+  left: 11.49%;
+  font-weight: 300;
+}
+.rectangle-container {
+  position: absolute;
+  height: 47.95%;
+  width: 21.22%;
+  top: 26.03%;
+  right: 74.63%;
+  bottom: 26.03%;
+  left: 4.15%;
+}
+.group-child1,
+.property-1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 410px;
+  height: 73px;
+}
+.group-child1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+}
+.email1 {
+  position: absolute;
+  top: 11.43%;
+  left: 18.39%;
+  font-weight: 300;
+}
+.group-div {
+  position: absolute;
+  height: 47.95%;
+  width: 21.22%;
+  top: -24.66%;
+  right: 71.95%;
+  bottom: 76.71%;
+  left: 6.83%;
+}
+.property-1variant2 {
+  position: absolute;
+  top: 113px;
+  left: 20px;
+  width: 410px;
+  height: 73px;
+  font-size: var(--font-size-3xl);
+}
+.line-div,
+.property-1default-parent {
+  position: absolute;
+  box-sizing: border-box;
+}
+.property-1default-parent {
+  top: 0;
+  left: 482px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  width: 450px;
+  height: 206px;
+  overflow: hidden;
+}
+.line-div {
+  height: 1.37%;
+  width: 85.61%;
+  top: 80.14%;
+  right: 7.2%;
+  bottom: 18.49%;
+  left: 7.2%;
+  border-top: 1px solid var(--color-black);
+}
+.group-child2 {
+  position: absolute;
+  height: 100%;
+  width: 65.41%;
+  top: 0;
+  right: 34.59%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.password {
+  position: absolute;
+  top: 2.86%;
+  left: 7.52%;
+  font-weight: 300;
+}
+.rectangle-parent1 {
+  position: absolute;
+  height: 47.95%;
+  width: 32.44%;
+  top: 26.03%;
+  right: 63.41%;
+  bottom: 26.03%;
+  left: 4.15%;
+}
+.password1 {
+  position: absolute;
+  top: 11.43%;
+  left: 12.23%;
+  font-weight: 300;
+}
+.rectangle-parent2 {
+  position: absolute;
+  height: 47.95%;
+  width: 33.9%;
+  top: -24.66%;
+  right: 61.22%;
+  bottom: 76.71%;
+  left: 4.88%;
+}
+.property-1variant21 {
+  position: absolute;
+  top: 113px;
+  left: 20px;
+  width: 410px;
+  height: 73px;
+  font-size: var(--font-size-4xl);
+}
+.component-2,
+.property-1default-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+}
+.component-2 {
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  width: 450px;
+  height: 206px;
+  overflow: hidden;
+}
+.property-1default-child1 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+}
+.line-icon,
+.property-1default2 {
+  position: absolute;
+  top: 16px;
+  left: 18px;
+  width: 16px;
+  height: 16px;
+}
+.line-icon {
+  height: 52%;
+  width: 54.67%;
+  top: 29.33%;
+  right: 22.67%;
+  bottom: 18.67%;
+  left: 22.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property-1variant22 {
+  position: absolute;
+  top: 53px;
+  left: calc(50% - 6.5px);
+  width: 15px;
+  height: 15px;
+}
+.property-1default-group {
+  position: absolute;
+  top: 318px;
+  left: 569px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 53px;
+  height: 86px;
+  overflow: hidden;
+}
+.component-set-parent {
+  position: relative;
+  width: 100%;
+  height: 404px;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-black);
+  font-family: var(--paragraph-p3-regular);
+}

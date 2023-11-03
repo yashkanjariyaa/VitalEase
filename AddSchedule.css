@@ -1,0 +1,136 @@
+.group-child17,
+.group-child18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-seagreen-100);
+}
+.group-child18 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+}
+.symptomsdisease {
+  position: absolute;
+  height: 39.22%;
+  width: 51.48%;
+  top: 31.37%;
+  left: 8.85%;
+  display: inline-block;
+}
+.rectangle-parent11,
+.rectangle-wrapper4,
+.rectangle-wrapper5 {
+  position: absolute;
+  height: 11.59%;
+  width: 68.69%;
+  top: 44.32%;
+  right: 21.85%;
+  bottom: 44.09%;
+  left: 9.46%;
+}
+.rectangle-wrapper4,
+.rectangle-wrapper5 {
+  width: 29.95%;
+  top: 61.59%;
+  right: 60.59%;
+  bottom: 26.82%;
+}
+.rectangle-wrapper5 {
+  top: 78.86%;
+  bottom: 9.55%;
+}
+.name-of-medicine {
+  position: absolute;
+  height: 39.22%;
+  width: 44.92%;
+  top: 31.37%;
+  left: 8.85%;
+  display: inline-block;
+}
+.group-parent4 {
+  position: absolute;
+  height: 11.59%;
+  width: 68.69%;
+  top: 27.05%;
+  right: 21.85%;
+  bottom: 61.36%;
+  left: 9.46%;
+}
+.name-your-schedule1 {
+  position: absolute;
+  height: 39.22%;
+  width: 53.77%;
+  top: 31.37%;
+  left: 8.85%;
+  display: inline-block;
+}
+.group-parent5 {
+  position: absolute;
+  height: 11.59%;
+  width: 68.69%;
+  top: 9.55%;
+  right: 21.85%;
+  bottom: 78.86%;
+  left: 9.46%;
+}
+.how-many-times1 {
+  margin: 0;
+}
+.how-many-times-container1,
+.per-day-week1 {
+  position: absolute;
+  top: 284px;
+  left: 199px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 184px;
+  height: 26px;
+}
+.per-day-week1 {
+  top: 348px;
+}
+.rectangle-parent10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.send-hor-fill-icon2,
+.send-hor-fill-icon3 {
+  position: absolute;
+  top: 350px;
+  left: 141px;
+  width: 24.2px;
+  height: 30.6px;
+}
+.send-hor-fill-icon3 {
+  top: 273px;
+}
+.check-fill-icon1 {
+  position: absolute;
+  top: 35px;
+  left: 383px;
+  width: 48px;
+  height: 45px;
+}
+.add-schedule {
+  position: relative;
+  width: 444px;
+  height: 440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray-100);
+  font-family: var(--paragraph-p3-regular);
+}

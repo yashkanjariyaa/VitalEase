@@ -1,0 +1,224 @@
+.manage-access-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-palegoldenrod);
+}
+.close-round-icon3 {
+  position: absolute;
+  height: 7.17%;
+  width: 3.54%;
+  top: 2.87%;
+  right: 1.5%;
+  bottom: 89.96%;
+  left: 94.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.account-accessed-by,
+.manage-access1 {
+  position: absolute;
+  height: 9.48%;
+  width: 39.22%;
+  top: 4.63%;
+  left: 2.85%;
+  font-weight: 500;
+  display: inline-block;
+}
+.account-accessed-by {
+  height: 5.63%;
+  width: 23.82%;
+  top: 33.52%;
+  font-size: var(--font-size-23xl);
+}
+.actions1 {
+  position: absolute;
+  top: 20px;
+  left: 59px;
+  font-weight: 300;
+}
+.action-icon {
+  position: absolute;
+  top: 101px;
+  left: 40px;
+  width: 202px;
+  height: 65px;
+}
+.action-icon1,
+.action-icon2,
+.action-icon3 {
+  position: absolute;
+  top: 185px;
+  left: 38px;
+  width: 202px;
+  height: 65px;
+}
+.action-icon2,
+.action-icon3 {
+  top: 264px;
+}
+.action-icon3 {
+  top: 343px;
+}
+.actions,
+.phone-number1 {
+  position: absolute;
+  font-size: var(--font-size-23xl);
+  font-family: var(--paragraph-p3-regular);
+  color: var(--color-white);
+}
+.actions {
+  height: 99.58%;
+  width: 15.33%;
+  top: 9.36%;
+  right: 0;
+  bottom: -8.94%;
+  left: 84.67%;
+  overflow: hidden;
+}
+.phone-number1 {
+  top: 15px;
+  left: 77px;
+  font-weight: 300;
+}
+.xxxxx-xxxxx1 {
+  margin: 0;
+  padding-left: var(--padding-37xl);
+}
+.xxxxx-xxxxx {
+  position: absolute;
+  top: 102px;
+  left: 23px;
+  font-weight: 300;
+}
+.phone-number {
+  position: absolute;
+  height: 99.58%;
+  width: 25.98%;
+  top: 9.36%;
+  right: 15.33%;
+  bottom: -8.94%;
+  left: 58.68%;
+  border-right: 9px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.family-doctor,
+.son,
+.wife {
+  position: absolute;
+  top: 184px;
+  left: 23px;
+  font-weight: 300;
+}
+.family-doctor,
+.wife {
+  top: 266px;
+}
+.family-doctor {
+  top: 348px;
+}
+.role1 {
+  top: 15px;
+  left: 163px;
+  font-size: var(--font-size-23xl);
+  font-weight: 300;
+  font-family: var(--paragraph-p3-regular);
+  color: var(--color-white);
+}
+.name10,
+.role,
+.role1 {
+  position: absolute;
+}
+.role {
+  height: 99.58%;
+  width: 24.71%;
+  top: 9.36%;
+  right: 41.32%;
+  bottom: -8.94%;
+  left: 33.97%;
+  border-right: 9px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.name10 {
+  top: 15px;
+  left: 225px;
+  font-size: var(--font-size-23xl);
+  font-weight: 300;
+  font-family: var(--paragraph-p3-regular);
+  color: var(--color-white);
+}
+.name9,
+.table-users {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.name9 {
+  height: 100%;
+  width: 33.97%;
+  top: 9.15%;
+  right: 66.03%;
+  bottom: -9.15%;
+  border-right: 9px solid var(--color-black);
+  box-sizing: border-box;
+}
+.table-users {
+  height: 59.09%;
+  width: 100%;
+  top: 40.91%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  font-size: var(--font-inherit);
+  color: var(--color-palegoldenrod);
+  font-family: var(--font-inherit);
+}
+.add-access {
+  position: absolute;
+  top: 38px;
+  left: 53px;
+  font-weight: 300;
+}
+.add-access-parent,
+.frame-icon {
+  position: absolute;
+  top: 19px;
+  left: 280px;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.add-access-parent {
+  height: 12.35%;
+  width: 20.39%;
+  top: 17.64%;
+  right: 77.51%;
+  bottom: 70.01%;
+  left: 2.1%;
+  border-radius: 78px;
+  background-color: #61a93f;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+}
+.manage-access {
+  position: relative;
+  width: 1905px;
+  height: 958px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: 71px;
+  color: var(--color-black);
+  font-family: var(--paragraph-p3-regular);
+}

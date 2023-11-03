@@ -1,0 +1,87 @@
+.property-1default-child3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-forestgreen-100);
+}
+.daily-tasks {
+  position: absolute;
+  top: 73.64%;
+  left: 18.39%;
+}
+.property-1default5 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 397px;
+  height: 516px;
+}
+.this-box-assists {
+  margin: 0;
+}
+.daily-tasks1,
+.this-box-assists-container {
+  position: absolute;
+  top: 65.7%;
+  left: 7.3%;
+}
+.daily-tasks1 {
+  top: 44.77%;
+  left: 8.56%;
+  font-size: var(--font-size-26xl);
+}
+.arrow-alt-lright-icon,
+.property-1variant2-child10 {
+  position: absolute;
+  height: 0.78%;
+  width: 86.65%;
+  top: 61.43%;
+  right: 6.05%;
+  bottom: 37.79%;
+  left: 7.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-alt-lright-icon {
+  height: 15.89%;
+  width: 20.91%;
+  top: 41.09%;
+  bottom: 43.02%;
+  left: 73.05%;
+}
+.property-1variant25 {
+  position: absolute;
+  top: 556px;
+  left: 20px;
+  width: 397px;
+  height: 516px;
+  font-size: var(--paragraph-p3-regular-size);
+}
+.property-1variant3 {
+  position: absolute;
+  height: 2.2%;
+  width: 5.49%;
+  top: 73.44%;
+  right: 13.27%;
+  bottom: 24.36%;
+  left: 81.24%;
+}
+.property-1default-top {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1092px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gray-300);
+  font-family: var(--paragraph-p3-regular);
+}
