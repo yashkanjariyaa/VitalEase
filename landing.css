@@ -1,7 +1,10 @@
 body{
-  zoom: 76%;
+  overflow-x: none;
+  scroll-behavior: smooth;
 }
-
+.hero-section{
+  overflow-y: none;
+}
 .assistance {
   position: relative;
   letter-spacing: -0.02em;
@@ -254,28 +257,45 @@ body{
   display: inline-block;
   width: 384px;
 }
-.btn-free-trial5,
-.group-child {
-  position: absolute;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-  border: 3px solid var(--color-gray-100);
-  box-sizing: border-box;
-}
 .btn-free-trial5 {
+  position: absolute;
   top: 767px;
   left: 1276px;
   border-radius: var(--br-3xs);
   background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-gray-100);
+  box-sizing: border-box;
   width: 517px;
   height: 165px;
   font-size: var(--font-size-11xl);
   color: var(--color-gray-500);
 }
-.group-child {
+.retention-rate-so-container {
+  position: absolute;
+  top: 5px;
+  left: 93px;
+  font-size: var(--font-size-14xl);
+  display: inline-block;
+  width: 328px;
+  color: var(--color-mediumseagreen-100);
+}
+.container,
+.group-child9 {
+  position: absolute;
+  top: 504px;
+  left: 154px;
+  width: 421px;
+  height: 60px;
+}
+.group-child9 {
   top: 0;
   left: 0;
   border-radius: var(--br-xl);
   background-color: var(--color-floralwhite-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-gray-100);
+  box-sizing: border-box;
   width: 275px;
   height: 256px;
 }
@@ -301,7 +321,7 @@ body{
   width: 158.4px;
   height: 37px;
 }
-.rectangle-parent {
+.rectangle-parent6 {
   position: absolute;
   top: 0;
   left: 0;
@@ -327,7 +347,8 @@ body{
   font-size: var(--font-size-xl);
   color: var(--color-white);
 }
-.group-parent {
+.group-container,
+.hero-section {
   position: absolute;
   top: 87px;
   left: 1543px;
@@ -335,33 +356,9 @@ body{
   height: 256px;
   font-size: var(--font-size-6xl);
 }
-.medication-management {
-  position: relative;
-  line-height: 23px;
-  font-weight: 500;
-}
-.vector-icon {
-  position: relative;
-  width: 10px;
-  height: 5px;
-}
-.productsdefault {
-  position: absolute;
-  top: 5px;
-  left: 767px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
-  gap: var(--gap-3xs);
-  font-size: var(--paragraph-p2-bold-size);
-  color: var(--color-mediumaquamarine);
-  font-family: var(--font-dm-sans);
-}
 .hero-section {
-  position: absolute;
   width: 100%;
-  top: 92px;
+  top: 61px;
   right: 0;
   left: 0;
   background-color: var(--color-floralwhite-100);
@@ -369,37 +366,44 @@ body{
   font-size: var(--font-size-21xl);
   color: var(--color-black);
 }
-.vitalease-healthcare {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
 .logo1 {
   position: relative;
   width: 286px;
   height: 34px;
 }
-.logo,
-.nav-menu,
+.logo {
+  width: 191px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.vector-icon {
+  position: relative;
+  width: 10px;
+  height: 5px;
+}
 .products {
   display: flex;
   flex-direction: row;
   align-items: center;
-}
-.logo {
-  width: 191px;
-  justify-content: space-between;
-}
-.nav-menu,
-.products {
   justify-content: flex-start;
   gap: var(--gap-3xs);
 }
+.solutions {
+  position: relative;
+  line-height: 23px;
+  font-weight: 500;
+}
 .nav-menu {
+  width: 551.5px;
+  display: flex;
+  flex-direction: row;
   align-items: flex-start;
+  justify-content: flex-start;
   gap: var(--gap-13xl);
 }
-.login {
+.login1 {
   position: absolute;
   top: 18.5px;
   left: 40px;
@@ -419,7 +423,6 @@ body{
   border-radius: var(--br-5xs);
   background-color: var(--color-khaki);
   cursor: pointer;
-  margin-left: 3rem;
 }
 .btn {
   position: relative;
@@ -455,7 +458,6 @@ body{
   box-sizing: border-box;
   width: 280px;
   height: 63px;
-  margin-left: 13rem;
 }
 .header,
 .need-help {
@@ -633,7 +635,7 @@ body{
   justify-content: flex-start;
   gap: var(--gap-5xl);
 }
-.b2,
+.b3,
 .connect-to-your,
 .free {
   align-self: stretch;
@@ -643,7 +645,7 @@ body{
   line-height: 36px;
   font-weight: 600;
 }
-.b2,
+.b3,
 .connect-to-your {
   font-size: var(--header-h4-size);
   letter-spacing: -0.02em;
@@ -691,8 +693,8 @@ body{
 .point1 {
   top: 48px;
 }
-.vector-icon5,
-.vector-icon6 {
+.vector-icon4,
+.vector-icon5 {
   position: absolute;
   height: 100%;
   width: 3.49%;
@@ -704,7 +706,7 @@ body{
   overflow: hidden;
   max-height: 100%;
 }
-.vector-icon6 {
+.vector-icon5 {
   height: 55%;
   width: 2.39%;
   top: 9%;
@@ -1228,6 +1230,11 @@ body{
   height: 29px;
   overflow: hidden;
 }
+.vitalease {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 .logo2 {
   position: relative;
   width: 130px;
@@ -1343,12 +1350,12 @@ body{
   z-index: 0;
 }
 .group-icon1,
-.vector-icon7 {
+.vector-icon6 {
   position: relative;
   width: 19px;
   height: 19px;
 }
-.vector-icon7 {
+.vector-icon6 {
   width: 13px;
   height: 7px;
 }
@@ -1407,67 +1414,52 @@ body{
   height: 1px;
   z-index: 2;
 }
-.content3,
-.footer {
+.content3 {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-.content3 {
   position: relative;
   gap: var(--gap-81xl);
 }
-.footer {
+.footer,
+.icon19 {
   position: absolute;
+}
+.footer {
   width: 100%;
   top: 6680px;
   right: 0;
   left: 0;
   background-color: var(--color-gray-500);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   padding: var(--padding-121xl) var(--padding-201xl) var(--padding-13xl);
   box-sizing: border-box;
   font-size: var(--paragraph-p3-regular-size);
   color: var(--color-white);
 }
-.retention-rate-so-container {
-  position: absolute;
-  top: 5px;
-  left: 93px;
-  font-size: var(--font-size-14xl);
-  display: inline-block;
-  width: 328px;
-  color: var(--color-mediumseagreen-100);
-}
-.container {
-  position: absolute;
-  top: 592px;
-  left: 154px;
-  width: 421px;
-  height: 60px;
-  font-size: var(--font-size-21xl);
-  color: var(--color-black);
-}
 .icon19 {
-  position: absolute;
   top: 4848px;
   left: 85px;
   width: 784px;
   height: 553px;
   object-fit: cover;
 }
-.landing-page-desktop-1920p {
+.landing {
   position: relative;
   background-color: var(--color-white);
   width: 100%;
   height: 7154px;
+  overflow-y: auto;
   text-align: left;
   font-size: var(--header-h1-size);
   color: var(--color-antiquewhite-100);
   font-family: var(--paragraph-p3-regular);
-  overflow-x: hidden;
 }
-.group-item {
+.group-child {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -1495,7 +1487,7 @@ body{
   width: 394px;
   height: 42px;
 }
-.rectangle-group {
+.rectangle-parent {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -1595,8 +1587,4 @@ body{
   font-size: var(--font-size-21xl);
   color: var(--color-white);
   font-family: var(--paragraph-p3-regular);
-}
-
-.need-help{
-  margin-left: 13rem;
 }
